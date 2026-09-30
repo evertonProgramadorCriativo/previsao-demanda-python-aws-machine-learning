@@ -4,10 +4,10 @@ matplotlib
 seaborn
 statsmodels
 scikit-learn
-mlflow
+mlflow>=2.16,<3.5
 streamlit
 sqlalchemy
 psycopg2-binary
 boto3
 holidays
-jupyter
+jupyterlab
